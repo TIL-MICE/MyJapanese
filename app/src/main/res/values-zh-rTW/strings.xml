@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_name">菜单</string>
+    <string name="dish_name">菜名</string>
+    <string name="shopcart">购物车</string>
+    <string name="menu_vocab">目录</string>
+    <string name="tips_jpstart">• 短按五十音按鈕播放拼讀語音\n• 長按五十音按鈕演示文字書寫</string>
+    <string name="tips_memory">• 左右滑動可切換卡片</string>
+    <string name="tips_translate">1.將要翻譯的內容輸入至原文文字方塊\n2.點擊上方雙方向按鈕進行翻譯</string>
+    <string name="tips_pixivillust">• 點擊卡片可瀏覽原圖、縮略圖和分享插畫連結\n• 現時只提供低分辯率插畫本地預覽，原圖需訪問插畫原址</string>
+    <string name="warn_no_wifi">檢測到您當前未使用WIFI網絡，可能會消耗大量流量，是否允許繼續加載？</string>
+    <string name="other">其他</string>
+    <string name="zhuoyin">濁音</string>
+    <string name="memory">記憶</string>
+    <string name="hiragana">平假名</string>
+    <string name="source_contents">原文：</string>
+    <string name="about">關於</string>
+    <string name="translation_contents">譯文：</string>
+    <string name="paste">粘貼</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="translate">翻譯</string>
+    <string name="auto_check">自動檢測</string>
+    <string name="setting">設定</string>
+    <string name="remember">知道了</string>
+    <string name="enter_frame">入口介面</string>
+    <string name="chinese">中文</string>
+    <string name="japanese">日语</string>
+    <string name="hello_world">Hello World !</string>
+    <string name="pixiv_illust">Pixiv插畫</string>
+    <string name="english">英語</string>
+    <string name="katakana">片假名</string>
+    <string name="row">行</string>
+    <string name="copy">複製</string>
+    <string name="hint_translate_source">這裡輸入原文</string>
+    <string name="small_tips">小提示</string>
+    <string name="image">圖片</string>
+    <string name="national_flag">國旗</string>
+    <string name="qingyin">清音</string>
+    <string name="column">列</string>
+    <string name="clear">清空</string>
+    <string name="yin">音</string>
+    <string name="write">寫</string>
+    <string name="loading">Loading</string>
+    <string name="app_name">鲤鱼日语</string>
+    <string name="jp_start">五十音图</string>
+    <string name="drawer_word">单词</string>
+    <string name="do_not_remind">不再提醒</string>
+    <string name="hint_translation_destination">ㄟ( ▔, ▔ )ㄏ 譯文為空，我什麼也不知道</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="aoyin">拗音</string>
+
+    <string name="copy_successfully">已成功複製到剪切板</string>
+
+    <string name="error_unknown">未知錯誤</string>
+
+    <string name="daily">今日</string>
+    <string name="weekly">本周</string>
+    <string name="monthly">本月</string>
+    <string name="rookie">新人</string>
+    <string name="original">原創</string>
+    <string name="male">受男性歡迎</string>
+    <string name="female">受女性歡迎</string>
+
+    <string name="source_img">原圖</string>
+    <string name="thumbnail">縮略圖</string>
+    <string name="share">分享</string>
+    <string name="share_to">分享到…</string>
+
+    <string name="save_success">插畫已成功下載並保存</string>
+    <string name="save_error">插畫保存失敗</string>
+
+    <string name="warn">提醒</string>
+
+    <string name="one_more_time">全部記住了嗎？再來一次吧！</string>
+
+    <string name="one_more_press_to_exit">Click again to exit</string>
+
+    <string name="system_setting">系統設置</string>
+    <string name="theme">主題</string>
+    <string name="other_setting">其他設定</string>
+    <string name="more_setting">更多設定</string>
+    <string name="tips_setting">更多設定將來再添加完善。</string>
+    <string name="auto">自動</string>
+    <string name="day">白天</string>
+    <string name="night">夜晚</string>
+
+    <string name="reboot_to_take_effect">請重新啟動使設定生效。</string>
+    <string name="setting_effect">設定已生效。</string>
+    <string name="hello_contents">鲤鱼日语,简单背单词。</string>
+    <string name="hello_u">Hello U</string>
+    <string name="thanks">Thanks</string>
+    <string name="thanks_contents">感謝以下開源項目的程式碼支持和開放平臺的資料服務支持。</string>
+    <string name="rxjava_rxandroid">RxJava | RxAndroid</string>
+    <string name="butterknife">ButterKnife</string>
+    <string name="retrofit2">Retrofit2</string>
+    <string name="glide">Glide</string>
+    <string name="photoview">PhotoView</string>
+    <string name="floatingactionbutton">FloatingActionButton</string>
+    <string name="swipecardview">SwipeCardView</string>
+    <string name="baidu_translate">百度翻譯</string>
+    <string name="pixiv">Pixiv</string>
+    <string name="here">Here</string>
+    <string name="here_contents">如果你喜歡這個App，期望你能打賞一毛兩毛。\n( •̀ ω •́ )y</string>
+    <string name="now">Now</string>
+    <string name="version">當前版本：v0.0.1</string>
+
+    <string name="loading_data">正在加載數據</string>
+    <string name="loading_data_success">加載完成</string>
+    <string name="loading_data_error">數據加載錯誤，請重新啟動</string>
+    <string name="author">Author</string>
+    <string name="author_name">一笃强</string>
+    <string name="panda">Panda</string>
+    <string name="title_allow_download_without_wifi">啟用2G/3G/4G網絡下載Pixiv插圖</string>
+    <string name="summary_allow_download_without_wifi">允許通過需要付費的移動網絡下載</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="loading_error">加載失敗</string>
+    <string name="loading_disallow_pixiv">已禁止在移動網絡下加載Pixiv插圖</string>
+    <string name="translate_error">翻譯失敗</string>
+    <string name="supperzzle">對對碰</string>
+    <string name="game">遊戲</string>
+    <string name="whoami">我是誰</string>
+    <string name="help">幫助</string>
+    <string name="ranking">排行榜</string>
+    <string name="hiragana_rome">平假名 -> 羅馬音</string>
+    <string name="hiragana_katakana">平假名 -> 片假名</string>
+    <string name="katakana_rome">片假名 -> 羅馬音</string>
+    <string name="sad">/(ㄒoㄒ)/~~</string>
+    <string name="one_more_time_2">再来一次</string>
+    <string name="exit">退出</string>
+    <string name="highedt_score">最高分</string>
+    <string name="tips_correct_contents">當前連續答對次數：</string>
+    <string name="tips_highest_score_contents">最高連續答對次數：</string>
+    <string name="tips_puzzle_contents">我是誰？\n我的平假名、片假名和羅馬音是哪個？</string>
+    <string name="tips_supperzzle_contents">在規定時間內進行配對，配對管道有：\n1.平假名 -> 羅馬音\n2.平假名 -> 片假名\n3.片假名 -> 羅馬音</string>
+</resources>

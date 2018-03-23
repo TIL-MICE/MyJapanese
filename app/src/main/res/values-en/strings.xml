@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_name">菜单</string>
+    <string name="dish_name">菜名</string>
+    <string name="shopcart">购物车</string>
+    <string name="menu_vocab">vocab</string>
+    <string name="tips_jpstart">• Short press to play sound spelling pronunciation\n• Long press to demonstrate the writing of the text</string>
+    <string name="tips_memory">• Left and right sliding switch card</string>
+    <string name="tips_translate">1.The content to be translated into the text box\n2.Click on the top two direction button for translation</string>
+    <string name="tips_pixivillust">• Click on the card can browse the artwork, thumbnails and illustration share links\n• At present, only low resolution illustration local preview, to visit the site of the original illustration</string>
+    <string name="warn_no_wifi">Detected that you currently do not use the WIFI network, you may consume a large amount of traffic, whether to allow to continue to load ?</string>
+    <string name="other">Other</string>
+    <string name="zhuoyin">浊音</string>
+    <string name="memory">Memory</string>
+    <string name="hiragana">Hiragana</string>
+    <string name="source_contents">Original：</string>
+    <string name="about">About</string>
+    <string name="translation_contents">Translation：</string>
+    <string name="paste">Paste</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="translate">Translate</string>
+    <string name="auto_check">Auto Check</string>
+    <string name="setting">Setting</string>
+    <string name="remember">Remember</string>
+    <string name="enter_frame">Enter View</string>
+    <string name="chinese">CN</string>
+    <string name="japanese">JP</string>
+    <string name="hello_world">Hello World !</string>
+    <string name="pixiv_illust">Pixiv Illust</string>
+    <string name="english">EN</string>
+    <string name="katakana">Katakana</string>
+    <string name="row">Row</string>
+    <string name="copy">Copy</string>
+    <string name="hint_translate_source">Please enter here!</string>
+    <string name="small_tips">Tips</string>
+    <string name="image">Image</string>
+    <string name="national_flag">National Flag</string>
+    <string name="qingyin">清音</string>
+    <string name="column">Column</string>
+    <string name="clear">Clear</string>
+    <string name="yin">音</string>
+    <string name="write">写</string>
+    <string name="loading">Loading</string>
+    <string name="app_name">CarpJ</string>
+    <string name="jp_start">JP Start</string>
+    <string name="drawer_word">Word</string>
+    <string name="do_not_remind">Don\'t remind</string>
+    <string name="hint_translation_destination">ㄟ( ▔, ▔ )ㄏ The translation is empty, I don\'t know anything.</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="aoyin">拗音</string>
+
+    <string name="copy_successfully">Has successfully copied to the clipboard</string>
+
+    <string name="error_unknown">Unknown Error</string>
+
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="rookie">Rookie</string>
+    <string name="original">Original</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="source_img">Original</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="share">Share</string>
+    <string name="share_to">Share To…</string>
+
+    <string name="save_success">Illustration has been successfully downloaded and saved</string>
+
+    <string name="save_error">Illustration save failed</string>
+
+    <string name="warn">Warning</string>
+
+    <string name="one_more_time">Do you remember all that? One more time!</string>
+
+    <string name="one_more_press_to_exit">Click again to exit</string>
+
+    <string name="system_setting">System Setting</string>
+    <string name="theme">Theme</string>
+    <string name="other_setting">Other Settings</string>
+    <string name="more_setting">More Settings</string>
+
+    <string name="tips_setting">More settings to be added in the future to improve.</string>
+
+    <string name="auto">Auto</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+
+    <string name="reboot_to_take_effect">Please reboot to take effect.</string>
+    <string name="setting_effect">Setup is in effect.</string>
+    <string name="hello_contents">Carp JP,remember simply.</string>
+    <string name="hello_u">Hello U</string>
+    <string name="thanks">Thanks</string>
+    <string name="thanks_contents">Thanks to the following open source project code support and open platform data service support.</string>
+    <string name="rxjava_rxandroid">RxJava | RxAndroid</string>
+    <string name="butterknife">ButterKnife</string>
+    <string name="retrofit2">Retrofit2</string>
+    <string name="glide">Glide</string>
+    <string name="photoview">PhotoView</string>
+    <string name="floatingactionbutton">FloatingActionButton</string>
+    <string name="swipecardview">SwipeCardView</string>
+    <string name="baidu_translate">Baidu Translate</string>
+    <string name="pixiv">Pixiv</string>
+    <string name="here">Here</string>
+    <string name="here_contents">If you like the App, I sincerely hope you can encourage me.\n( •̀ ω •́ )y</string>
+    <string name="now">Now</string>
+    <string name="version">Current Version: v0.0.1</string>
+
+    <string name="loading_data">Loading data</string>
+    <string name="loading_data_success">Loading completed</string>
+    <string name="loading_data_error">Data loading error, please restart</string>
+    <string name="author">Author</string>
+    <string name="author_name">一笃强</string>
+    <string name="panda">Panda</string>
+    <string name="title_allow_download_without_wifi">Enable 2G/3G/4G network download Pixiv illustrations</string>
+    <string name="summary_allow_download_without_wifi">Allows mobile networks to be downloaded through the need to pay</string>
+
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="loading_error">Failed to load</string>
+    <string name="loading_disallow_pixiv">Pixiv illustrations have been banned in the mobile network.</string>
+    <string name="translate_error">Translation failure</string>
+    <string name="supperzzle">Supperzzle</string>
+    <string name="game">Game</string>
+    <string name="whoami">Who am I</string>
+    <string name="help">Help</string>
+    <string name="ranking">Ranking</string>
+    <string name="hiragana_rome">Hiragana -> Rome</string>
+    <string name="hiragana_katakana">Hiragana -> Katakana</string>
+    <string name="katakana_rome">Katakana -> Rome</string>
+    <string name="sad">/(ㄒoㄒ)/~~</string>
+    <string name="one_more_time_2">One More</string>
+    <string name="exit">Exit</string>
+    <string name="highedt_score">Highest Score</string>
+    <string name="tips_correct_contents">The correct number of continuous: </string>
+    <string name="tips_highest_score_contents">The highest number of consecutive correct answers: </string>
+    <string name="tips_puzzle_contents">Who am I ? \nWhich is my hiragana, katakana and Rome sound ?</string>
+    <string name="tips_supperzzle_contents">Pairing within the specified time, matching methods are:\n1.Hiragana -> Rome\n2.Hiragana -> Katakana\n3.Katakana -> Rome</string>
+</resources>
