@@ -12,5 +12,7 @@
 <img src="screenshot/screenshot_2.png" width="32%"> <img src="screenshot/screenshot_3.png" width="32%"> <img src="screenshot/screenshot_4.png" width="32%"> 
 
 
-# 最后
-感谢阅读，如果喜欢就给个star吧
+# 关于我
+一个努力连接点线面的人，喜欢做产品。
+
+### 感谢阅读，如果喜欢就给个star吧。
